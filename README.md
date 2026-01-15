@@ -35,9 +35,9 @@ This mini project explains the fundamentals of cybersecurity, focusing on:
 Cybersecurity is the practice of protecting systems, networks, and data from digital attacks.
 
 ### CIA Triad
-- **Confidentiality** – Prevents unauthorized access  
-- **Integrity** – Prevents unauthorized data modification  
-- **Availability** – Ensures services are accessible  
+- **Confidentiality** – Prevents unauthorized access  (e.g., bank account details).
+- **Integrity** – Prevents unauthorized data modification  (e.g., transaction records).
+- **Availability** – Ensures services are accessible  (e.g., online banking services).
 
 ---
 
