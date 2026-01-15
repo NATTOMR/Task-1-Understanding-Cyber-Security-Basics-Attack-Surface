@@ -110,12 +110,15 @@ Understanding cybersecurity concepts helps reduce risks and defend against cyber
 ---
 
 ## 📚 References
-- OWASP Official Documentation  
-- Google Cybersecurity Blog  
-- CISA  
+- OWASP Official Documentation
+  (https://owasp.org/site-documentation/) 
+- Google Cybersecurity Blog
+  (https://owasp.org/site-documentation/)
+- CISA
+  (https://www.cisa.gov/)
 
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**NATTO MUNI CHAKMA**  
 Cyber Security Mini Project  
