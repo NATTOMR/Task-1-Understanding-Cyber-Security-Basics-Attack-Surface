@@ -61,7 +61,7 @@ An attack surface includes all points where an attacker can try to enter a syste
 - Cloud Infrastructure
 
 ### 📌 Attack Surface Diagram
-![Attack Surface](diagrams/attack_surface.png)
+![Attack Surface](https://github.com/NATTOMR/Task-1-Understanding-Cyber-Security-Basics-Attack-Surface/blob/main/attack_surface%20(2).png)
 
 ---
 
@@ -94,7 +94,7 @@ An attack surface includes all points where an attacker can try to enter a syste
 ### Typical Data Flow:
 
 ### 📌 Data Flow Diagram
-![Data Flow](diagrams/data_flow.png)
+![Data Flow](https://github.com/NATTOMR/Task-1-Understanding-Cyber-Security-Basics-Attack-Surface/blob/main/data_flow%20diagram.png)
 
 ### Possible Attack Points
 - User side – Phishing
