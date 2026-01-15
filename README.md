@@ -1,5 +1,5 @@
 # Task-1-Understanding-Cyber-Security-Basics-Attack-Surface
-# 🛡️ Cyber Security Basics & Attack Surface – Mini Project
+# 🛡️ Cyber Security Basics & Attack Surface
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Education-blue)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-red)
